@@ -1,0 +1,1 @@
+curl -X POST -F "file=@/root/data/client.mp3"  http://47.96.15.141:1234/recognition
